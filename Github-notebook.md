@@ -12,7 +12,7 @@
 >##三种状态：
 <p>已提交（committed），已修改（modified）和已暂存（staged）。</p>
 
->##Git命令：
+>##Linux命令：
 1.git --help：查看帮助
 2.pwd：用于显示当前目录
 3.cd：修改路径
