@@ -23,5 +23,5 @@
 8.ZZ：退出vim进入的编辑状态
 9.git add ：（这是个多功能命令，根据目标文件的状态不同，此命令的效果也不同：可以用它开始跟踪新文件，或者把已跟踪的文件放到暂存区，还能用于合并时把有冲突的文件标记为已解决状态等）
 10.rm 文件名 -rf：删除文件及其里面的内容
-11.cat主要有三大功能：(1)一次显示整个文件。$ cat filename(2)从键盘创建一个文件。$ cat > filename只能创建新文件,不能编辑已有文件.(3)将几个文件合并为一个文件： $cat file1 file2 > file。更多链接：[Cat命令](http://blog.csdn.net/tanga842428/article/details/52628357)
+11.cat主要有三大功能：(1)一次显示整个文件。$ cat filename(2)从键盘创建一个文件。$ cat > filename只能创建新文件,不能编辑已有文件.(3)将几个文件合并为一个文件： $cat file1 file2 > file。更多链接：[Cat命令](http://blog.csdn.net/tanga842428/article/details/52628357)<br/>
 详见书《Pro Git》或[Git-help](https://git-scm.com/book/en/v2)
