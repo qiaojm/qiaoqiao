@@ -1,4 +1,4 @@
->##一、安装node环境
+>##一、安装node环境,[dd](/README.md)
 >>1.在[node下载地址](https://nodejs.org/en/)中下载安装node<br/>
 >>2.根据[安装node和npm](http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000/00143450141843488beddae2a1044cab5acb5125baf0882000)
 根据步骤在黑窗口中检验是否成功<br/>
