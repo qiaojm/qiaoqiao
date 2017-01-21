@@ -12,4 +12,7 @@
 >##三、NPM已成为世界上最大的包管理器
 >>[更多链接](http://mp.weixin.qq.com/s?__biz=MzA3MDMyMzk0NA==&mid=2650814454&idx=1&sn=505c37d777152107e687d7fb85a1f4e1&chksm=84ca0c71b3bd85675c2dc4dcd28e68fc0adb41705f4c7a8135571bea4cde56769eff763e785d&mpshare=1&scene=23&srcid=0117R548vaD29HqxTptiLEU3#rd)
 >##四、Gitbook
->>1.安装Gitbook命令:npm install gitbook-cli -g[详情](http://jingyan.baidu.com/article/e8cdb32b33e8f637052bada8.html)<br/>
+>>1.安装Gitbook命令:npm install gitbook-cli -g<br/>[详情](http://jingyan.baidu.com/article/e8cdb32b33e8f637052bada8.html)
+>>2.gitbook init  //初始化目录文件<br/>
+>>3.gitbook build<br/>
+>>4.gitbook serve
