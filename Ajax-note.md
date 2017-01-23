@@ -8,6 +8,7 @@
 >- 使用Document Object Model进行动态显示和交互；
 >- 使用XMLHttpRequest与服务器进行异步通信；
 >- 使用JavaScript绑定一切。
+
 >##利用原生Ajax改变内容
 >- 通过XMLHttpRequest实现使用JavaScript向服务器端发送一个HTTP请求（学会兼容个浏览器的写法）
 >- 当接收到服务器端响应时，需要告诉HTTP请求对象使用JavaScript函数来处理响应。将XMLHttpRequest对象的onreadystatechange属性设置为该函数的名称，当请求的状态变化时，该函数会被调用。
