@@ -23,4 +23,5 @@
 >(qq.html:25 XMLHttpRequest cannot load file:///C:/Users/iqiao.cc/ajax-practice/test.txt. Cross origin requests are only supported for >protocol schemes: http, data, chrome, chrome-extension, https, chrome-extension-resource.)<br/>
 >解决方案：利用本地的node.js npm 安装http-server [详情](https://segmentfault.com/q/1010000003926981)<br/>
 
->###AJAX--XMLHttpRequest五步使用法:http://www.tuicool.com/articles/rEZrErM
+>###AJAX--XMLHttpRequest五步使用法:
+[详情](http://www.tuicool.com/articles/rEZrErM)
