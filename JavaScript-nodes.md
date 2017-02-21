@@ -9,8 +9,8 @@
 >>2、一个完整的JavaScript 实现应该由下列三个不同的部分组成。
    -  核心（ECMAScript）
    -  文档对象模型（DOM）
-   -  文档对象模型（DOM）
-   -  浏览器对象模型（BOM）<br/>
+   -  浏览器对象模型（BOM）
+<br/>
    
 >>3、文档对象模型（DOM）
 >>含义：文档对象模型（DOM，Document Object Model）是针对XML 但经过扩展用于HTML 的应用程序编程接口（API，Application Programming Interface）。DOM把整个页面映射为一个多层节点结构。
