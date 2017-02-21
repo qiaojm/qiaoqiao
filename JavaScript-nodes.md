@@ -10,6 +10,7 @@
    -  核心（ECMAScript）
    -  文档对象模型（DOM）
    -  浏览器对象模型（BOM）<br/>
+   
 >>3、文档对象模型（DOM）
 >>含义：文档对象模型（DOM，Document Object Model）是针对XML 但经过扩展用于HTML 的应用程序编程接口（API，Application Programming Interface）。DOM把整个页面映射为一个多层节点结构。
 >>自我理解：DOM实际上是将页面抽象成一个树形结构的模型，方便开发人员对相应的结点进行增、删、改、查等操作。<br/>
