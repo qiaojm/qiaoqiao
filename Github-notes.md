@@ -24,6 +24,7 @@
 - 10.rm 文件名 -rf：删除文件及其里面的内容
 - 11.cat主要有三大功能：(1)一次显示整个文件。$ cat filename(2)从键盘创建一个文件。$ cat > filename只能创建新文件,不能编辑已有文件.(3)将几个文件合并为一个文件： $cat file1 file2 > file。更多链接：[Cat命令](http://blog.csdn.net/tanga842428/article/details/52628357)<br/>
 详见书《Pro Git》或[Git-help](https://git-scm.com/book/en/v2)
+
 >##Git使用规范流程
 [Git使用规范流程](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666540296&idx=1&sn=bcaa54a27bc521f39c88b8072fd7073b&chksm=80dce9a3b7ab60b5cbb6246874ff0c61a94971e6144dc691e29d0492379de8776d0c29ec03b6&mpshare=1&scene=23&srcid=0117cMMmmZFYfOiFV95XVQTz#rd)
 
@@ -43,5 +44,5 @@
 >- 把远程仓库更新到本地：git pull 
 >- 删除本地的文件：git rm 文件名（README.md）
 >- 提交到远程仓库：git commit -m '说明'
->- git push 即可git pulL命令更多：](http://www.yiibai.com/git/git_pull.html)
+>- git push 即可[git pulL命令更多：](http://www.yiibai.com/git/git_pull.html)
 >- [更多详情：](http://jingyan.baidu.com/article/2a1383288e2ba5074a134fb5.html)
