@@ -36,7 +36,7 @@
 >- 提交：git commit -m '说明内容'
 >- 初次需要执行：git remote add origin 地址
 >- 提交到远程仓库：git push origin master
->- 中途遇到个问题：在远程仓库删除了个文件结果更新下来有问题，解决方法： git pull --rebase origin master。[更多:](http://www.tuicool.com/articles/3aIvQfU)
+>- 中途遇到个问题：在远程仓库删除了个文件结果更新下来有问题，解决方法： git pull --rebase origin master。[详情](http://www.tuicool.com/articles/3aIvQfU)
 >- [查看未提交到远程仓库的一些命令：](http://blog.csdn.net/kakaxi2222/article/details/46011717)
 >- [更多详情：](http://blog.csdn.net/steven6977/article/details/10567719)
 
