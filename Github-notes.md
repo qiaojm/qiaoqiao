@@ -46,6 +46,7 @@
 >- 提交到远程仓库：git commit -m '说明'
 >- git push 即可[git pulL命令更多：](http://www.yiibai.com/git/git_pull.html)
 >- [更多详情：](http://jingyan.baidu.com/article/2a1383288e2ba5074a134fb5.html)
+>- 补充：当命令不正常退出导致生成.swp文件
 
 >##git fetch 与 git push 的区别：
 >-[区别](http://blog.csdn.net/wfdtxz/article/details/8632811)
