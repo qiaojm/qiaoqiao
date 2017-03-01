@@ -26,3 +26,20 @@
 详见书《Pro Git》或[Git-help](https://git-scm.com/book/en/v2)
 >##Git使用规范流程
 [Git使用规范流程](http://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666540296&idx=1&sn=bcaa54a27bc521f39c88b8072fd7073b&chksm=80dce9a3b7ab60b5cbb6246874ff0c61a94971e6144dc691e29d0492379de8776d0c29ec03b6&mpshare=1&scene=23&srcid=0117cMMmmZFYfOiFV95XVQTz#rd)
+>##从远程仓库克隆到提交本地内容到远程仓库过程及一些简单操作:
+>-克隆：git clone 地址
+>-本地新建文件：touch README.md
+>-本地新建文件：mkdir 文件名
+>-跟踪新文件：git add 文件名（git status查看最近更新情况及哪些待提交）
+>-提交：git commit -m '说明内容'
+>-初次需要执行：git remote add origin 地址
+>-提交到远程仓库：git push origin master
+>-中途遇到个问题：在远程仓库删除了个文件结果更新下来有问题，解决方法： git pull --rebase origin master。[更多:](http://www.tuicool.com/articles/3aIvQfU)
+>-[查看未提交到远程仓库的一些命令：](http://blog.csdn.net/kakaxi2222/article/details/46011717)
+>-[更多详情：](http://blog.csdn.net/steven6977/article/details/10567719)
+>##删除文件并更新
+>-把远程仓库更新到本地：git pull 
+>-删除本地的文件：git rm 文件名（README.md）
+>-提交到远程仓库：git commit -m '说明'
+>-git push 即可git pulL命令更多：](http://www.yiibai.com/git/git_pull.html)
+>-[更多详情：](http://jingyan.baidu.com/article/2a1383288e2ba5074a134fb5.html)
