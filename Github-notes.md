@@ -42,7 +42,7 @@
 
 >##删除文件并更新
 >- 把远程仓库更新到本地：git pull 
->- 删除本地的文件：git rm 文件名（README.md）
+>- 删除本地的文件： rm 文件名（README.md）
 >- 提交到远程仓库：git commit -m '说明'
 >- git push 即可[git pulL命令更多：](http://www.yiibai.com/git/git_pull.html)
 >- [更多详情：](http://jingyan.baidu.com/article/2a1383288e2ba5074a134fb5.html)
